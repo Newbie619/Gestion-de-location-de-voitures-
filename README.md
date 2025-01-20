@@ -1,4 +1,4 @@
-# Gestion-de-location-de-voitures-
+# Gestion-de-location-de-voitures-MBAI-
 Nous visons à développer une application console pour la gestion de la location de 
 voitures. Les informations des voitures et des utilisateurs seront stockées dans une base 
 de données sous forme de fichiers CSV. De plus, nous créerons une interface utilisateur 
